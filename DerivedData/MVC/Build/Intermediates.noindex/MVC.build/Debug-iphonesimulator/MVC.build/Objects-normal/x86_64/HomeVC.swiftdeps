@@ -1,0 +1,661 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HomeVC"
+provides-nominal:
+- "3MVC6HomeVCC"
+provides-member:
+- ["3MVC6HomeVCC", ""]
+provides-dynamic-lookup:
+- "HomeTV"
+- "LoadProduct"
+- "items"
+- "viewDidLoad"
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "BaseViewController"
+- "HomeVC"
+- !private "NetWorkManager"
+- !private "ProductModel"
+- "ProductModelDatum"
+- !private "StringLiteralType"
+- !private "UINib"
+- "UITableView"
+- !private "print"
+- !private "proudct"
+depends-member:
+- ["10Accelerate0A6BufferP", "init"]
+- ["10Accelerate0A13MutableBufferP", "init"]
+- ["Sa", "init"]
+- !private ["3MVC18BaseViewControllerC", "HideLoading"]
+- ["3MVC18BaseViewControllerC", "HomeTV"]
+- ["3MVC18BaseViewControllerC", "LoadProduct"]
+- !private ["3MVC18BaseViewControllerC", "NetWorkManager"]
+- !private ["3MVC18BaseViewControllerC", "ProductModel"]
+- ["3MVC18BaseViewControllerC", "ProductModelDatum"]
+- !private ["3MVC18BaseViewControllerC", "UINib"]
+- ["3MVC18BaseViewControllerC", "UITableView"]
+- ["3MVC18BaseViewControllerC", ""]
+- ["3MVC18BaseViewControllerC", "init"]
+- ["3MVC18BaseViewControllerC", "items"]
+- !private ["3MVC18BaseViewControllerC", "print"]
+- !private ["3MVC18BaseViewControllerC", "proudct"]
+- !private ["3MVC18BaseViewControllerC", "showLoading"]
+- ["3MVC18BaseViewControllerC", "viewDidLoad"]
+- ["SK", "init"]
+- !private ["So15CALayerDelegateP", "dataSource"]
+- !private ["So15CALayerDelegateP", "delegate"]
+- !private ["So15CALayerDelegateP", "register"]
+- !private ["So15CALayerDelegateP", "reloadData"]
+- !private ["s7CVarArgP", "HideLoading"]
+- !private ["s7CVarArgP", "HomeTV"]
+- !private ["s7CVarArgP", "LoadProduct"]
+- !private ["s7CVarArgP", "NetWorkManager"]
+- ["s7CVarArgP", "ProductModelDatum"]
+- !private ["s7CVarArgP", "UINib"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "dataSource"]
+- !private ["s7CVarArgP", "delegate"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "items"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "proudct"]
+- !private ["s7CVarArgP", "register"]
+- !private ["s7CVarArgP", "reloadData"]
+- !private ["s7CVarArgP", "showLoading"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["Sl", "init"]
+- ["10Foundation15ContiguousBytesP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "HideLoading"]
+- !private ["s28CustomDebugStringConvertibleP", "HomeTV"]
+- !private ["s28CustomDebugStringConvertibleP", "LoadProduct"]
+- !private ["s28CustomDebugStringConvertibleP", "NetWorkManager"]
+- ["s28CustomDebugStringConvertibleP", "ProductModelDatum"]
+- !private ["s28CustomDebugStringConvertibleP", "UINib"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "dataSource"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "items"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "proudct"]
+- !private ["s28CustomDebugStringConvertibleP", "register"]
+- !private ["s28CustomDebugStringConvertibleP", "reloadData"]
+- !private ["s28CustomDebugStringConvertibleP", "showLoading"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "dataSource"]
+- !private ["s17CustomReflectableP", "delegate"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "register"]
+- !private ["s17CustomReflectableP", "reloadData"]
+- !private ["s23CustomStringConvertibleP", "HideLoading"]
+- !private ["s23CustomStringConvertibleP", "HomeTV"]
+- !private ["s23CustomStringConvertibleP", "LoadProduct"]
+- !private ["s23CustomStringConvertibleP", "NetWorkManager"]
+- ["s23CustomStringConvertibleP", "ProductModelDatum"]
+- !private ["s23CustomStringConvertibleP", "UINib"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "dataSource"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "items"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "proudct"]
+- !private ["s23CustomStringConvertibleP", "register"]
+- !private ["s23CustomStringConvertibleP", "reloadData"]
+- !private ["s23CustomStringConvertibleP", "showLoading"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["10Foundation12DataProtocolP", "init"]
+- !private ["Se", "data"]
+- !private ["Se", "dataSource"]
+- !private ["Se", "delegate"]
+- ["Se", "init"]
+- !private ["Se", "register"]
+- !private ["Se", "reloadData"]
+- !private ["SE", "data"]
+- !private ["SE", "dataSource"]
+- !private ["SE", "delegate"]
+- ["SE", "init"]
+- !private ["SE", "register"]
+- !private ["SE", "reloadData"]
+- !private ["SQ", "HideLoading"]
+- !private ["SQ", "HomeTV"]
+- !private ["SQ", "LoadProduct"]
+- !private ["SQ", "NetWorkManager"]
+- ["SQ", "ProductModelDatum"]
+- !private ["SQ", "UINib"]
+- ["SQ", ""]
+- !private ["SQ", "dataSource"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "get"]
+- ["SQ", "init"]
+- !private ["SQ", "items"]
+- !private ["SQ", "print"]
+- !private ["SQ", "proudct"]
+- !private ["SQ", "register"]
+- !private ["SQ", "reloadData"]
+- !private ["SQ", "showLoading"]
+- !private ["SQ", "viewDidLoad"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "dataSource"]
+- !private ["s23ExpressibleByNilLiteralP", "delegate"]
+- !private ["s23ExpressibleByNilLiteralP", "register"]
+- !private ["s23ExpressibleByNilLiteralP", "reloadData"]
+- !private ["9Alamofire10HTTPMethodO", "get"]
+- !private ["SH", "HideLoading"]
+- !private ["SH", "HomeTV"]
+- !private ["SH", "LoadProduct"]
+- !private ["SH", "NetWorkManager"]
+- ["SH", "ProductModelDatum"]
+- !private ["SH", "UINib"]
+- ["SH", ""]
+- !private ["SH", "dataSource"]
+- !private ["SH", "delegate"]
+- !private ["SH", "get"]
+- ["SH", "init"]
+- !private ["SH", "items"]
+- !private ["SH", "print"]
+- !private ["SH", "proudct"]
+- !private ["SH", "register"]
+- !private ["SH", "reloadData"]
+- !private ["SH", "showLoading"]
+- !private ["SH", "viewDidLoad"]
+- !private ["3MVC6HomeVCC", "HideLoading"]
+- ["3MVC6HomeVCC", "HomeTV"]
+- ["3MVC6HomeVCC", "LoadProduct"]
+- !private ["3MVC6HomeVCC", "NetWorkManager"]
+- !private ["3MVC6HomeVCC", "ProductModel"]
+- ["3MVC6HomeVCC", "ProductModelDatum"]
+- !private ["3MVC6HomeVCC", "UINib"]
+- ["3MVC6HomeVCC", "UITableView"]
+- ["3MVC6HomeVCC", "deinit"]
+- ["3MVC6HomeVCC", "init"]
+- ["3MVC6HomeVCC", "items"]
+- !private ["3MVC6HomeVCC", "print"]
+- !private ["3MVC6HomeVCC", "proudct"]
+- !private ["3MVC6HomeVCC", "showLoading"]
+- ["3MVC6HomeVCC", "viewDidLoad"]
+- ["SM", "init"]
+- ["10Foundation19MutableDataProtocolP", "init"]
+- !private ["So8NSCodingP", "HideLoading"]
+- !private ["So8NSCodingP", "HomeTV"]
+- !private ["So8NSCodingP", "LoadProduct"]
+- !private ["So8NSCodingP", "NetWorkManager"]
+- ["So8NSCodingP", "ProductModelDatum"]
+- !private ["So8NSCodingP", "UINib"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "dataSource"]
+- !private ["So8NSCodingP", "delegate"]
+- !private ["So8NSCodingP", "items"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "proudct"]
+- !private ["So8NSCodingP", "register"]
+- !private ["So8NSCodingP", "reloadData"]
+- !private ["So8NSCodingP", "showLoading"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "HideLoading"]
+- !private ["So26NSExtensionRequestHandlingP", "HomeTV"]
+- !private ["So26NSExtensionRequestHandlingP", "LoadProduct"]
+- !private ["So26NSExtensionRequestHandlingP", "NetWorkManager"]
+- ["So26NSExtensionRequestHandlingP", "ProductModelDatum"]
+- !private ["So26NSExtensionRequestHandlingP", "UINib"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "items"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "proudct"]
+- !private ["So26NSExtensionRequestHandlingP", "showLoading"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "HideLoading"]
+- ["So8NSObjectC", "HomeTV"]
+- ["So8NSObjectC", "LoadProduct"]
+- !private ["So8NSObjectC", "NetWorkManager"]
+- !private ["So8NSObjectC", "ProductModel"]
+- ["So8NSObjectC", "ProductModelDatum"]
+- !private ["So8NSObjectC", "UINib"]
+- ["So8NSObjectC", "UITableView"]
+- !private ["So8NSObjectC", "dataSource"]
+- !private ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "items"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "proudct"]
+- !private ["So8NSObjectC", "register"]
+- !private ["So8NSObjectC", "reloadData"]
+- !private ["So8NSObjectC", "showLoading"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "HideLoading"]
+- !private ["So8NSObjectP", "HomeTV"]
+- !private ["So8NSObjectP", "LoadProduct"]
+- !private ["So8NSObjectP", "NetWorkManager"]
+- ["So8NSObjectP", "ProductModelDatum"]
+- !private ["So8NSObjectP", "UINib"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "dataSource"]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "items"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "proudct"]
+- !private ["So8NSObjectP", "register"]
+- !private ["So8NSObjectP", "reloadData"]
+- !private ["So8NSObjectP", "showLoading"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["3MVC14NetWorkManagerC", "API"]
+- !private ["3MVC14NetWorkManagerC", "instance"]
+- !private ["Sq", "dataSource"]
+- !private ["Sq", "delegate"]
+- !private ["Sq", "register"]
+- !private ["Sq", "reloadData"]
+- !private ["3MVC12ProductModelV", "data"]
+- !private ["3MVC12ProductModelV", "deinit"]
+- !private ["3MVC21ProductModelDataClassV", "data"]
+- ["Sk", "init"]
+- ["Sm", "init"]
+- !private ["SY", "get"]
+- ["ST", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "dataSource"]
+- !private ["So29UIAccessibilityIdentificationP", "delegate"]
+- !private ["So29UIAccessibilityIdentificationP", "register"]
+- !private ["So29UIAccessibilityIdentificationP", "reloadData"]
+- !private ["So12UIAppearanceP", "dataSource"]
+- !private ["So12UIAppearanceP", "delegate"]
+- !private ["So12UIAppearanceP", "register"]
+- !private ["So12UIAppearanceP", "reloadData"]
+- !private ["So21UIAppearanceContainerP", "HideLoading"]
+- !private ["So21UIAppearanceContainerP", "HomeTV"]
+- !private ["So21UIAppearanceContainerP", "LoadProduct"]
+- !private ["So21UIAppearanceContainerP", "NetWorkManager"]
+- ["So21UIAppearanceContainerP", "ProductModelDatum"]
+- !private ["So21UIAppearanceContainerP", "UINib"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "dataSource"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- !private ["So21UIAppearanceContainerP", "items"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "proudct"]
+- !private ["So21UIAppearanceContainerP", "register"]
+- !private ["So21UIAppearanceContainerP", "reloadData"]
+- !private ["So21UIAppearanceContainerP", "showLoading"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "HideLoading"]
+- !private ["So18UIContentContainerP", "HomeTV"]
+- !private ["So18UIContentContainerP", "LoadProduct"]
+- !private ["So18UIContentContainerP", "NetWorkManager"]
+- ["So18UIContentContainerP", "ProductModelDatum"]
+- !private ["So18UIContentContainerP", "UINib"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "items"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "proudct"]
+- !private ["So18UIContentContainerP", "showLoading"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So17UICoordinateSpaceP", "dataSource"]
+- !private ["So17UICoordinateSpaceP", "delegate"]
+- !private ["So17UICoordinateSpaceP", "register"]
+- !private ["So17UICoordinateSpaceP", "reloadData"]
+- !private ["So23UIDataSourceTranslatingP", "dataSource"]
+- !private ["So23UIDataSourceTranslatingP", "delegate"]
+- !private ["So23UIDataSourceTranslatingP", "register"]
+- !private ["So23UIDataSourceTranslatingP", "reloadData"]
+- !private ["So13UIDynamicItemP", "dataSource"]
+- !private ["So13UIDynamicItemP", "delegate"]
+- !private ["So13UIDynamicItemP", "register"]
+- !private ["So13UIDynamicItemP", "reloadData"]
+- !private ["So18UIFocusEnvironmentP", "HideLoading"]
+- !private ["So18UIFocusEnvironmentP", "HomeTV"]
+- !private ["So18UIFocusEnvironmentP", "LoadProduct"]
+- !private ["So18UIFocusEnvironmentP", "NetWorkManager"]
+- ["So18UIFocusEnvironmentP", "ProductModelDatum"]
+- !private ["So18UIFocusEnvironmentP", "UINib"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "dataSource"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- !private ["So18UIFocusEnvironmentP", "items"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "proudct"]
+- !private ["So18UIFocusEnvironmentP", "register"]
+- !private ["So18UIFocusEnvironmentP", "reloadData"]
+- !private ["So18UIFocusEnvironmentP", "showLoading"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "dataSource"]
+- !private ["So11UIFocusItemP", "delegate"]
+- !private ["So11UIFocusItemP", "register"]
+- !private ["So11UIFocusItemP", "reloadData"]
+- !private ["So20UIFocusItemContainerP", "dataSource"]
+- !private ["So20UIFocusItemContainerP", "delegate"]
+- !private ["So20UIFocusItemContainerP", "register"]
+- !private ["So20UIFocusItemContainerP", "reloadData"]
+- !private ["So30UIFocusItemScrollableContainerP", "dataSource"]
+- !private ["So30UIFocusItemScrollableContainerP", "delegate"]
+- !private ["So30UIFocusItemScrollableContainerP", "register"]
+- !private ["So30UIFocusItemScrollableContainerP", "reloadData"]
+- !private ["So24UILargeContentViewerItemP", "dataSource"]
+- !private ["So24UILargeContentViewerItemP", "delegate"]
+- !private ["So24UILargeContentViewerItemP", "register"]
+- !private ["So24UILargeContentViewerItemP", "reloadData"]
+- !private ["So5UINibC", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "HideLoading"]
+- !private ["So30UIPasteConfigurationSupportingP", "HomeTV"]
+- !private ["So30UIPasteConfigurationSupportingP", "LoadProduct"]
+- !private ["So30UIPasteConfigurationSupportingP", "NetWorkManager"]
+- ["So30UIPasteConfigurationSupportingP", "ProductModelDatum"]
+- !private ["So30UIPasteConfigurationSupportingP", "UINib"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "dataSource"]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "items"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "proudct"]
+- !private ["So30UIPasteConfigurationSupportingP", "register"]
+- !private ["So30UIPasteConfigurationSupportingP", "reloadData"]
+- !private ["So30UIPasteConfigurationSupportingP", "showLoading"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "HideLoading"]
+- ["So11UIResponderC", "HomeTV"]
+- ["So11UIResponderC", "LoadProduct"]
+- !private ["So11UIResponderC", "NetWorkManager"]
+- !private ["So11UIResponderC", "ProductModel"]
+- ["So11UIResponderC", "ProductModelDatum"]
+- !private ["So11UIResponderC", "UINib"]
+- ["So11UIResponderC", "UITableView"]
+- !private ["So11UIResponderC", "dataSource"]
+- !private ["So11UIResponderC", "delegate"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "items"]
+- !private ["So11UIResponderC", "print"]
+- !private ["So11UIResponderC", "proudct"]
+- !private ["So11UIResponderC", "register"]
+- !private ["So11UIResponderC", "reloadData"]
+- !private ["So11UIResponderC", "showLoading"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "HideLoading"]
+- !private ["So30UIResponderStandardEditActionsP", "HomeTV"]
+- !private ["So30UIResponderStandardEditActionsP", "LoadProduct"]
+- !private ["So30UIResponderStandardEditActionsP", "NetWorkManager"]
+- ["So30UIResponderStandardEditActionsP", "ProductModelDatum"]
+- !private ["So30UIResponderStandardEditActionsP", "UINib"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "dataSource"]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
+- !private ["So30UIResponderStandardEditActionsP", "items"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "proudct"]
+- !private ["So30UIResponderStandardEditActionsP", "register"]
+- !private ["So30UIResponderStandardEditActionsP", "reloadData"]
+- !private ["So30UIResponderStandardEditActionsP", "showLoading"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So12UIScrollViewC", "dataSource"]
+- !private ["So12UIScrollViewC", "delegate"]
+- !private ["So12UIScrollViewC", "register"]
+- !private ["So12UIScrollViewC", "reloadData"]
+- !private ["So20UIScrollViewDelegateP", "HideLoading"]
+- !private ["So20UIScrollViewDelegateP", "HomeTV"]
+- !private ["So20UIScrollViewDelegateP", "LoadProduct"]
+- !private ["So20UIScrollViewDelegateP", "NetWorkManager"]
+- ["So20UIScrollViewDelegateP", "ProductModelDatum"]
+- !private ["So20UIScrollViewDelegateP", "UINib"]
+- !private ["So20UIScrollViewDelegateP", "items"]
+- !private ["So20UIScrollViewDelegateP", "print"]
+- !private ["So20UIScrollViewDelegateP", "proudct"]
+- !private ["So20UIScrollViewDelegateP", "showLoading"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "dataSource"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "delegate"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "register"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "reloadData"]
+- !private ["So16UIStateRestoringP", "HideLoading"]
+- !private ["So16UIStateRestoringP", "HomeTV"]
+- !private ["So16UIStateRestoringP", "LoadProduct"]
+- !private ["So16UIStateRestoringP", "NetWorkManager"]
+- ["So16UIStateRestoringP", "ProductModelDatum"]
+- !private ["So16UIStateRestoringP", "UINib"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "items"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "proudct"]
+- !private ["So16UIStateRestoringP", "showLoading"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So11UITableViewC", "dataSource"]
+- !private ["So11UITableViewC", "delegate"]
+- !private ["So11UITableViewC", "register"]
+- !private ["So11UITableViewC", "reloadData"]
+- !private ["So21UITableViewDataSourceP", "HideLoading"]
+- !private ["So21UITableViewDataSourceP", "HomeTV"]
+- !private ["So21UITableViewDataSourceP", "LoadProduct"]
+- !private ["So21UITableViewDataSourceP", "NetWorkManager"]
+- ["So21UITableViewDataSourceP", "ProductModelDatum"]
+- !private ["So21UITableViewDataSourceP", "UINib"]
+- !private ["So21UITableViewDataSourceP", "items"]
+- !private ["So21UITableViewDataSourceP", "print"]
+- !private ["So21UITableViewDataSourceP", "proudct"]
+- !private ["So21UITableViewDataSourceP", "showLoading"]
+- !private ["So19UITableViewDelegateP", "HideLoading"]
+- !private ["So19UITableViewDelegateP", "HomeTV"]
+- !private ["So19UITableViewDelegateP", "LoadProduct"]
+- !private ["So19UITableViewDelegateP", "NetWorkManager"]
+- ["So19UITableViewDelegateP", "ProductModelDatum"]
+- !private ["So19UITableViewDelegateP", "UINib"]
+- !private ["So19UITableViewDelegateP", "items"]
+- !private ["So19UITableViewDelegateP", "print"]
+- !private ["So19UITableViewDelegateP", "proudct"]
+- !private ["So19UITableViewDelegateP", "showLoading"]
+- !private ["So18UITraitEnvironmentP", "HideLoading"]
+- !private ["So18UITraitEnvironmentP", "HomeTV"]
+- !private ["So18UITraitEnvironmentP", "LoadProduct"]
+- !private ["So18UITraitEnvironmentP", "NetWorkManager"]
+- ["So18UITraitEnvironmentP", "ProductModelDatum"]
+- !private ["So18UITraitEnvironmentP", "UINib"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "dataSource"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- !private ["So18UITraitEnvironmentP", "items"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "proudct"]
+- !private ["So18UITraitEnvironmentP", "register"]
+- !private ["So18UITraitEnvironmentP", "reloadData"]
+- !private ["So18UITraitEnvironmentP", "showLoading"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "HideLoading"]
+- !private ["So23UIUserActivityRestoringP", "HomeTV"]
+- !private ["So23UIUserActivityRestoringP", "LoadProduct"]
+- !private ["So23UIUserActivityRestoringP", "NetWorkManager"]
+- ["So23UIUserActivityRestoringP", "ProductModelDatum"]
+- !private ["So23UIUserActivityRestoringP", "UINib"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "dataSource"]
+- !private ["So23UIUserActivityRestoringP", "delegate"]
+- !private ["So23UIUserActivityRestoringP", "items"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "proudct"]
+- !private ["So23UIUserActivityRestoringP", "register"]
+- !private ["So23UIUserActivityRestoringP", "reloadData"]
+- !private ["So23UIUserActivityRestoringP", "showLoading"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "dataSource"]
+- !private ["So6UIViewC", "delegate"]
+- !private ["So6UIViewC", "register"]
+- !private ["So6UIViewC", "reloadData"]
+- !private ["So16UIViewControllerC", "HideLoading"]
+- ["So16UIViewControllerC", "HomeTV"]
+- ["So16UIViewControllerC", "LoadProduct"]
+- !private ["So16UIViewControllerC", "NetWorkManager"]
+- !private ["So16UIViewControllerC", "ProductModel"]
+- ["So16UIViewControllerC", "ProductModelDatum"]
+- !private ["So16UIViewControllerC", "UINib"]
+- ["So16UIViewControllerC", "UITableView"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "items"]
+- !private ["So16UIViewControllerC", "print"]
+- !private ["So16UIViewControllerC", "proudct"]
+- !private ["So16UIViewControllerC", "showLoading"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["s14_ArrayProtocolP", "init"]
+- ["s24_DestructorSafeContainerP", "init"]
+- ["s19_HasContiguousBytesP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "HideLoading"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "HomeTV"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "LoadProduct"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NetWorkManager"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "ProductModelDatum"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UINib"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dataSource"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "items"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "proudct"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "register"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "reloadData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showLoading"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "HideLoading"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "HomeTV"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "LoadProduct"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NetWorkManager"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ProductModelDatum"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UINib"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dataSource"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "delegate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "items"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "print"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "proudct"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "register"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "reloadData"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "showLoading"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "dataSource"]
+- !private ["s21_ObjectiveCBridgeableP", "delegate"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "register"]
+- !private ["s21_ObjectiveCBridgeableP", "reloadData"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "dataSource"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "delegate"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "register"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "reloadData"]
+depends-nominal:
+- "10Accelerate0A6BufferP"
+- "10Accelerate0A13MutableBufferP"
+- "Sa"
+- "3MVC18BaseViewControllerC"
+- "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation12DataProtocolP"
+- "Se"
+- "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "9Alamofire10HTTPMethodO"
+- "SH"
+- "3MVC6HomeVCC"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "3MVC14NetWorkManagerC"
+- !private "Sq"
+- !private "3MVC12ProductModelV"
+- !private "3MVC21ProductModelDataClassV"
+- "Sk"
+- "Sm"
+- !private "SY"
+- "ST"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So23UIDataSourceTranslatingP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIFocusItemScrollableContainerP"
+- !private "So24UILargeContentViewerItemP"
+- !private "So5UINibC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- "So20UIScrollViewDelegateP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- !private "So11UITableViewC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "s14_ArrayProtocolP"
+- "s24_DestructorSafeContainerP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules/PKHUD.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/NVActivityIndicatorView.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-umbrella.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-umbrella.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-Swift.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-Swift.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5c7d5cb4141a4fc4b3bde252ff7fea51"

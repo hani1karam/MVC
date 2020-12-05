@@ -1,0 +1,549 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LoginVC"
+provides-nominal:
+- "3MVC7LoginVCC"
+provides-member:
+- ["3MVC7LoginVCC", ""]
+provides-dynamic-lookup:
+- "EmailTxt"
+- "LoginBtn"
+- "PasswordTxt"
+- "viewDidLoad"
+depends-top-level:
+- !private "=="
+- !private "??"
+- "BaseViewController"
+- "BooleanLiteralType"
+- !private "LoginModel"
+- "LoginVC"
+- !private "NetWorkManager"
+- !private "ScreenID"
+- !private "Storyboards"
+- !private "StringLiteralType"
+- !private "UIStoryboard"
+- "UITextField"
+- !private "login"
+- !private "print"
+depends-member:
+- ["3MVC18BaseViewControllerC", "EmailTxt"]
+- !private ["3MVC18BaseViewControllerC", "HideLoading"]
+- ["3MVC18BaseViewControllerC", "LoginBtn"]
+- !private ["3MVC18BaseViewControllerC", "LoginModel"]
+- !private ["3MVC18BaseViewControllerC", "NetWorkManager"]
+- ["3MVC18BaseViewControllerC", "PasswordTxt"]
+- !private ["3MVC18BaseViewControllerC", "ScreenID"]
+- !private ["3MVC18BaseViewControllerC", "Storyboards"]
+- !private ["3MVC18BaseViewControllerC", "UIStoryboard"]
+- ["3MVC18BaseViewControllerC", "UITextField"]
+- ["3MVC18BaseViewControllerC", ""]
+- ["3MVC18BaseViewControllerC", "init"]
+- !private ["3MVC18BaseViewControllerC", "login"]
+- !private ["3MVC18BaseViewControllerC", "navigationController"]
+- !private ["3MVC18BaseViewControllerC", "print"]
+- !private ["3MVC18BaseViewControllerC", "showLoading"]
+- ["3MVC18BaseViewControllerC", "viewDidLoad"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "EmailTxt"]
+- !private ["s7CVarArgP", "HideLoading"]
+- !private ["s7CVarArgP", "NetWorkManager"]
+- !private ["s7CVarArgP", "PasswordTxt"]
+- !private ["s7CVarArgP", "ScreenID"]
+- !private ["s7CVarArgP", "Storyboards"]
+- !private ["s7CVarArgP", "UIStoryboard"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "instantiateViewController"]
+- !private ["s7CVarArgP", "login"]
+- !private ["s7CVarArgP", "navigationController"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "pushViewController"]
+- !private ["s7CVarArgP", "showLoading"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "EmailTxt"]
+- !private ["s28CustomDebugStringConvertibleP", "HideLoading"]
+- !private ["s28CustomDebugStringConvertibleP", "NetWorkManager"]
+- !private ["s28CustomDebugStringConvertibleP", "PasswordTxt"]
+- !private ["s28CustomDebugStringConvertibleP", "ScreenID"]
+- !private ["s28CustomDebugStringConvertibleP", "Storyboards"]
+- !private ["s28CustomDebugStringConvertibleP", "UIStoryboard"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "instantiateViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "login"]
+- !private ["s28CustomDebugStringConvertibleP", "navigationController"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "pushViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "showLoading"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "EmailTxt"]
+- !private ["s23CustomStringConvertibleP", "HideLoading"]
+- !private ["s23CustomStringConvertibleP", "NetWorkManager"]
+- !private ["s23CustomStringConvertibleP", "PasswordTxt"]
+- !private ["s23CustomStringConvertibleP", "ScreenID"]
+- !private ["s23CustomStringConvertibleP", "Storyboards"]
+- !private ["s23CustomStringConvertibleP", "UIStoryboard"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "instantiateViewController"]
+- !private ["s23CustomStringConvertibleP", "login"]
+- !private ["s23CustomStringConvertibleP", "navigationController"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "pushViewController"]
+- !private ["s23CustomStringConvertibleP", "showLoading"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "status"]
+- !private ["Se", "text"]
+- !private ["SE", "status"]
+- !private ["SE", "text"]
+- !private ["SQ", "EmailTxt"]
+- !private ["SQ", "HideLoading"]
+- !private ["SQ", "NetWorkManager"]
+- !private ["SQ", "PasswordTxt"]
+- !private ["SQ", "ScreenID"]
+- !private ["SQ", "Storyboards"]
+- !private ["SQ", "UIStoryboard"]
+- ["SQ", ""]
+- !private ["SQ", "init"]
+- !private ["SQ", "instantiateViewController"]
+- !private ["SQ", "login"]
+- !private ["SQ", "navigationController"]
+- !private ["SQ", "post"]
+- !private ["SQ", "print"]
+- !private ["SQ", "pushViewController"]
+- !private ["SQ", "showLoading"]
+- !private ["SQ", "text"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["9Alamofire10HTTPMethodO", "post"]
+- !private ["SH", "EmailTxt"]
+- !private ["SH", "HideLoading"]
+- !private ["SH", "NetWorkManager"]
+- !private ["SH", "PasswordTxt"]
+- !private ["SH", "ScreenID"]
+- !private ["SH", "Storyboards"]
+- !private ["SH", "UIStoryboard"]
+- ["SH", ""]
+- !private ["SH", "init"]
+- !private ["SH", "instantiateViewController"]
+- !private ["SH", "login"]
+- !private ["SH", "navigationController"]
+- !private ["SH", "post"]
+- !private ["SH", "print"]
+- !private ["SH", "pushViewController"]
+- !private ["SH", "showLoading"]
+- !private ["SH", "text"]
+- !private ["SH", "viewDidLoad"]
+- !private ["3MVC10LoginModelV", "deinit"]
+- !private ["3MVC10LoginModelV", "status"]
+- ["3MVC7LoginVCC", "EmailTxt"]
+- !private ["3MVC7LoginVCC", "HideLoading"]
+- ["3MVC7LoginVCC", "LoginBtn"]
+- !private ["3MVC7LoginVCC", "LoginModel"]
+- !private ["3MVC7LoginVCC", "NetWorkManager"]
+- ["3MVC7LoginVCC", "PasswordTxt"]
+- !private ["3MVC7LoginVCC", "ScreenID"]
+- !private ["3MVC7LoginVCC", "Storyboards"]
+- !private ["3MVC7LoginVCC", "UIStoryboard"]
+- ["3MVC7LoginVCC", "UITextField"]
+- ["3MVC7LoginVCC", "deinit"]
+- ["3MVC7LoginVCC", "init"]
+- !private ["3MVC7LoginVCC", "login"]
+- !private ["3MVC7LoginVCC", "navigationController"]
+- !private ["3MVC7LoginVCC", "print"]
+- !private ["3MVC7LoginVCC", "showLoading"]
+- ["3MVC7LoginVCC", "viewDidLoad"]
+- !private ["So8NSCodingP", "EmailTxt"]
+- !private ["So8NSCodingP", "HideLoading"]
+- !private ["So8NSCodingP", "NetWorkManager"]
+- !private ["So8NSCodingP", "PasswordTxt"]
+- !private ["So8NSCodingP", "ScreenID"]
+- !private ["So8NSCodingP", "Storyboards"]
+- !private ["So8NSCodingP", "UIStoryboard"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "login"]
+- !private ["So8NSCodingP", "navigationController"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "pushViewController"]
+- !private ["So8NSCodingP", "showLoading"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "EmailTxt"]
+- !private ["So26NSExtensionRequestHandlingP", "HideLoading"]
+- !private ["So26NSExtensionRequestHandlingP", "NetWorkManager"]
+- !private ["So26NSExtensionRequestHandlingP", "PasswordTxt"]
+- !private ["So26NSExtensionRequestHandlingP", "ScreenID"]
+- !private ["So26NSExtensionRequestHandlingP", "Storyboards"]
+- !private ["So26NSExtensionRequestHandlingP", "UIStoryboard"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "login"]
+- !private ["So26NSExtensionRequestHandlingP", "navigationController"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "pushViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "showLoading"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "EmailTxt"]
+- !private ["So8NSObjectC", "HideLoading"]
+- ["So8NSObjectC", "LoginBtn"]
+- !private ["So8NSObjectC", "LoginModel"]
+- !private ["So8NSObjectC", "NetWorkManager"]
+- ["So8NSObjectC", "PasswordTxt"]
+- !private ["So8NSObjectC", "ScreenID"]
+- !private ["So8NSObjectC", "Storyboards"]
+- !private ["So8NSObjectC", "UIStoryboard"]
+- ["So8NSObjectC", "UITextField"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "instantiateViewController"]
+- !private ["So8NSObjectC", "login"]
+- !private ["So8NSObjectC", "navigationController"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "pushViewController"]
+- !private ["So8NSObjectC", "showLoading"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "EmailTxt"]
+- !private ["So8NSObjectP", "HideLoading"]
+- !private ["So8NSObjectP", "NetWorkManager"]
+- !private ["So8NSObjectP", "PasswordTxt"]
+- !private ["So8NSObjectP", "ScreenID"]
+- !private ["So8NSObjectP", "Storyboards"]
+- !private ["So8NSObjectP", "UIStoryboard"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "instantiateViewController"]
+- !private ["So8NSObjectP", "login"]
+- !private ["So8NSObjectP", "navigationController"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "pushViewController"]
+- !private ["So8NSObjectP", "showLoading"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["3MVC14NetWorkManagerC", "API"]
+- !private ["3MVC14NetWorkManagerC", "instance"]
+- !private ["Sq", "text"]
+- !private ["SY", "post"]
+- !private ["3MVC8ScreenIDV", "Home"]
+- !private ["3MVC11StoryboardsV", "main"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "EmailTxt"]
+- !private ["So21UIAppearanceContainerP", "HideLoading"]
+- !private ["So21UIAppearanceContainerP", "NetWorkManager"]
+- !private ["So21UIAppearanceContainerP", "PasswordTxt"]
+- !private ["So21UIAppearanceContainerP", "ScreenID"]
+- !private ["So21UIAppearanceContainerP", "Storyboards"]
+- !private ["So21UIAppearanceContainerP", "UIStoryboard"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "login"]
+- !private ["So21UIAppearanceContainerP", "navigationController"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "pushViewController"]
+- !private ["So21UIAppearanceContainerP", "showLoading"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "EmailTxt"]
+- !private ["So18UIContentContainerP", "HideLoading"]
+- !private ["So18UIContentContainerP", "NetWorkManager"]
+- !private ["So18UIContentContainerP", "PasswordTxt"]
+- !private ["So18UIContentContainerP", "ScreenID"]
+- !private ["So18UIContentContainerP", "Storyboards"]
+- !private ["So18UIContentContainerP", "UIStoryboard"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "login"]
+- !private ["So18UIContentContainerP", "navigationController"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "pushViewController"]
+- !private ["So18UIContentContainerP", "showLoading"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "text"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "EmailTxt"]
+- !private ["So18UIFocusEnvironmentP", "HideLoading"]
+- !private ["So18UIFocusEnvironmentP", "NetWorkManager"]
+- !private ["So18UIFocusEnvironmentP", "PasswordTxt"]
+- !private ["So18UIFocusEnvironmentP", "ScreenID"]
+- !private ["So18UIFocusEnvironmentP", "Storyboards"]
+- !private ["So18UIFocusEnvironmentP", "UIStoryboard"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "login"]
+- !private ["So18UIFocusEnvironmentP", "navigationController"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "pushViewController"]
+- !private ["So18UIFocusEnvironmentP", "showLoading"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- !private ["So22UINavigationControllerC", "pushViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "EmailTxt"]
+- !private ["So30UIPasteConfigurationSupportingP", "HideLoading"]
+- !private ["So30UIPasteConfigurationSupportingP", "NetWorkManager"]
+- !private ["So30UIPasteConfigurationSupportingP", "PasswordTxt"]
+- !private ["So30UIPasteConfigurationSupportingP", "ScreenID"]
+- !private ["So30UIPasteConfigurationSupportingP", "Storyboards"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIStoryboard"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "login"]
+- !private ["So30UIPasteConfigurationSupportingP", "navigationController"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "pushViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "showLoading"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "EmailTxt"]
+- !private ["So11UIResponderC", "HideLoading"]
+- ["So11UIResponderC", "LoginBtn"]
+- !private ["So11UIResponderC", "LoginModel"]
+- !private ["So11UIResponderC", "NetWorkManager"]
+- ["So11UIResponderC", "PasswordTxt"]
+- !private ["So11UIResponderC", "ScreenID"]
+- !private ["So11UIResponderC", "Storyboards"]
+- !private ["So11UIResponderC", "UIStoryboard"]
+- ["So11UIResponderC", "UITextField"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "login"]
+- !private ["So11UIResponderC", "navigationController"]
+- !private ["So11UIResponderC", "print"]
+- !private ["So11UIResponderC", "pushViewController"]
+- !private ["So11UIResponderC", "showLoading"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "EmailTxt"]
+- !private ["So30UIResponderStandardEditActionsP", "HideLoading"]
+- !private ["So30UIResponderStandardEditActionsP", "NetWorkManager"]
+- !private ["So30UIResponderStandardEditActionsP", "PasswordTxt"]
+- !private ["So30UIResponderStandardEditActionsP", "ScreenID"]
+- !private ["So30UIResponderStandardEditActionsP", "Storyboards"]
+- !private ["So30UIResponderStandardEditActionsP", "UIStoryboard"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "login"]
+- !private ["So30UIResponderStandardEditActionsP", "navigationController"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "pushViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "showLoading"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "EmailTxt"]
+- !private ["So16UIStateRestoringP", "HideLoading"]
+- !private ["So16UIStateRestoringP", "NetWorkManager"]
+- !private ["So16UIStateRestoringP", "PasswordTxt"]
+- !private ["So16UIStateRestoringP", "ScreenID"]
+- !private ["So16UIStateRestoringP", "Storyboards"]
+- !private ["So16UIStateRestoringP", "UIStoryboard"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "login"]
+- !private ["So16UIStateRestoringP", "navigationController"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "pushViewController"]
+- !private ["So16UIStateRestoringP", "showLoading"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So12UIStoryboardC", "init"]
+- !private ["So12UIStoryboardC", "instantiateViewController"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextFieldC", "text"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So18UITraitEnvironmentP", "EmailTxt"]
+- !private ["So18UITraitEnvironmentP", "HideLoading"]
+- !private ["So18UITraitEnvironmentP", "NetWorkManager"]
+- !private ["So18UITraitEnvironmentP", "PasswordTxt"]
+- !private ["So18UITraitEnvironmentP", "ScreenID"]
+- !private ["So18UITraitEnvironmentP", "Storyboards"]
+- !private ["So18UITraitEnvironmentP", "UIStoryboard"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "login"]
+- !private ["So18UITraitEnvironmentP", "navigationController"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "pushViewController"]
+- !private ["So18UITraitEnvironmentP", "showLoading"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "EmailTxt"]
+- !private ["So23UIUserActivityRestoringP", "HideLoading"]
+- !private ["So23UIUserActivityRestoringP", "NetWorkManager"]
+- !private ["So23UIUserActivityRestoringP", "PasswordTxt"]
+- !private ["So23UIUserActivityRestoringP", "ScreenID"]
+- !private ["So23UIUserActivityRestoringP", "Storyboards"]
+- !private ["So23UIUserActivityRestoringP", "UIStoryboard"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "login"]
+- !private ["So23UIUserActivityRestoringP", "navigationController"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "pushViewController"]
+- !private ["So23UIUserActivityRestoringP", "showLoading"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "EmailTxt"]
+- !private ["So16UIViewControllerC", "HideLoading"]
+- ["So16UIViewControllerC", "LoginBtn"]
+- !private ["So16UIViewControllerC", "LoginModel"]
+- !private ["So16UIViewControllerC", "NetWorkManager"]
+- ["So16UIViewControllerC", "PasswordTxt"]
+- !private ["So16UIViewControllerC", "ScreenID"]
+- !private ["So16UIViewControllerC", "Storyboards"]
+- !private ["So16UIViewControllerC", "UIStoryboard"]
+- ["So16UIViewControllerC", "UITextField"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "login"]
+- !private ["So16UIViewControllerC", "navigationController"]
+- !private ["So16UIViewControllerC", "print"]
+- !private ["So16UIViewControllerC", "pushViewController"]
+- !private ["So16UIViewControllerC", "showLoading"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "EmailTxt"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "HideLoading"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NetWorkManager"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PasswordTxt"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ScreenID"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Storyboards"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIStoryboard"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "instantiateViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "login"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "navigationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pushViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showLoading"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "EmailTxt"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "HideLoading"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NetWorkManager"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "PasswordTxt"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ScreenID"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Storyboards"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIStoryboard"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "instantiateViewController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "login"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "navigationController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "print"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "pushViewController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "showLoading"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- "3MVC18BaseViewControllerC"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "9Alamofire10HTTPMethodO"
+- "SH"
+- !private "3MVC10LoginModelV"
+- "3MVC7LoginVCC"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "3MVC14NetWorkManagerC"
+- !private "Sq"
+- !private "SY"
+- !private "3MVC8ScreenIDV"
+- !private "3MVC11StoryboardsV"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So10UIKeyInputP"
+- !private "So24UILargeContentViewerItemP"
+- !private "So22UINavigationControllerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- !private "So12UIStoryboardC"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules/PKHUD.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/NVActivityIndicatorView.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-umbrella.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-umbrella.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-Swift.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-Swift.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7778c153db98aa5df604acdeca1bd284"

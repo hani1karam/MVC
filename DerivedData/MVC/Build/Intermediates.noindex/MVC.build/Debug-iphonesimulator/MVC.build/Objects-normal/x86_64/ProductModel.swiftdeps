@@ -1,0 +1,390 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ProductModel"
+- "ProductModelDataClass"
+- "ProductModelDatum"
+provides-nominal:
+- "3MVC12ProductModelV"
+- "3MVC21ProductModelDataClassV"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+provides-member:
+- ["3MVC12ProductModelV", ""]
+- ["3MVC21ProductModelDataClassV", ""]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", ""]
+- ["3MVC17ProductModelDatumV", ""]
+- ["3MVC17ProductModelDatumV10CodingKeysO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "Bool"
+- "Codable"
+- "CodingKey"
+- "Double"
+- !private "FloatLiteralType"
+- "Int"
+- !private "IntegerLiteralType"
+- "ProductModel"
+- "ProductModelDataClass"
+- "ProductModelDatum"
+- "String"
+- "StringLiteralType"
+- !private "_findStringSwitchCase"
+- !private "~="
+depends-member:
+- ["s9CodingKeyP", "=="]
+- ["s9CodingKeyP", "RawValue"]
+- ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_Default_RawValue"]
+- !private ["s9CodingKeyP", "_findStringSwitchCase"]
+- ["s9CodingKeyP", "_rawHashValue"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "rawValue"]
+- ["s9CodingKeyP", "stringValue"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "=="]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "=="]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "RawValue"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "RawValue"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "_Default_RawValue"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "_Default_RawValue"]
+- !private ["3MVC17ProductModelDatumV10CodingKeysO", "_findStringSwitchCase"]
+- !private ["3MVC21ProductModelDataClassV10CodingKeysO", "_findStringSwitchCase"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "_rawHashValue"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "_rawHashValue"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "currentPage"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "data"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "datumDescription"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "debugDescription"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "debugDescription"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "deinit"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "deinit"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "description"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "description"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "discount"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "firstPageURL"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "from"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "hash"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "hash"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "hashValue"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "hashValue"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "id"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "image"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "images"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "inCart"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "inFavorites"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "init"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "init"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "intValue"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "intValue"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "lastPage"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "lastPageURL"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "name"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "nextPageURL"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "oldPrice"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "path"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "perPage"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "prevPageURL"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "price"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "rawValue"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "rawValue"]
+- ["3MVC17ProductModelDatumV10CodingKeysO", "stringValue"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "stringValue"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "to"]
+- ["3MVC21ProductModelDataClassV10CodingKeysO", "total"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- ["s28CustomDebugStringConvertibleP", "RawValue"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_Default_RawValue"]
+- !private ["s28CustomDebugStringConvertibleP", "_findStringSwitchCase"]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- ["s28CustomDebugStringConvertibleP", "rawValue"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- ["s23CustomStringConvertibleP", "=="]
+- ["s23CustomStringConvertibleP", "RawValue"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_Default_RawValue"]
+- !private ["s23CustomStringConvertibleP", "_findStringSwitchCase"]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "rawValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- ["Se", ""]
+- !private ["Se", "_findStringSwitchCase"]
+- !private ["Se", "currentPage"]
+- !private ["Se", "data"]
+- !private ["Se", "datumDescription"]
+- !private ["Se", "discount"]
+- ["Se", "encode"]
+- !private ["Se", "firstPageURL"]
+- !private ["Se", "from"]
+- !private ["Se", "id"]
+- !private ["Se", "image"]
+- !private ["Se", "images"]
+- !private ["Se", "inCart"]
+- !private ["Se", "inFavorites"]
+- ["Se", "init"]
+- !private ["Se", "lastPage"]
+- !private ["Se", "lastPageURL"]
+- !private ["Se", "message"]
+- !private ["Se", "name"]
+- !private ["Se", "nextPageURL"]
+- !private ["Se", "oldPrice"]
+- !private ["Se", "path"]
+- !private ["Se", "perPage"]
+- !private ["Se", "prevPageURL"]
+- !private ["Se", "price"]
+- !private ["Se", "status"]
+- !private ["Se", "to"]
+- !private ["Se", "total"]
+- !private ["s7DecoderP", "container"]
+- ["SE", ""]
+- !private ["SE", "_findStringSwitchCase"]
+- !private ["SE", "currentPage"]
+- !private ["SE", "data"]
+- !private ["SE", "datumDescription"]
+- !private ["SE", "discount"]
+- ["SE", "encode"]
+- !private ["SE", "firstPageURL"]
+- !private ["SE", "from"]
+- !private ["SE", "id"]
+- !private ["SE", "image"]
+- !private ["SE", "images"]
+- !private ["SE", "inCart"]
+- !private ["SE", "inFavorites"]
+- ["SE", "init"]
+- !private ["SE", "lastPage"]
+- !private ["SE", "lastPageURL"]
+- !private ["SE", "message"]
+- !private ["SE", "name"]
+- !private ["SE", "nextPageURL"]
+- !private ["SE", "oldPrice"]
+- !private ["SE", "path"]
+- !private ["SE", "perPage"]
+- !private ["SE", "prevPageURL"]
+- !private ["SE", "price"]
+- !private ["SE", "status"]
+- !private ["SE", "to"]
+- !private ["SE", "total"]
+- !private ["s7EncoderP", "container"]
+- ["SQ", "=="]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- ["SQ", "rawValue"]
+- ["SQ", "stringValue"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_rawHashValue"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- ["SH", "rawValue"]
+- ["SH", "stringValue"]
+- !private ["s6HasherV", "combine"]
+- !private ["s22KeyedDecodingContainerV", "decodeIfPresent"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- !private ["s22KeyedEncodingContainerV", "encodeIfPresent"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encodeIfPresent"]
+- ["3MVC12ProductModelV", "Bool"]
+- ["3MVC12ProductModelV", "ProductModelDataClass"]
+- ["3MVC12ProductModelV", "String"]
+- ["3MVC12ProductModelV", "data"]
+- ["3MVC12ProductModelV", "deinit"]
+- ["3MVC12ProductModelV", "encode"]
+- ["3MVC12ProductModelV", "init"]
+- ["3MVC12ProductModelV", "message"]
+- ["3MVC12ProductModelV", "status"]
+- ["3MVC21ProductModelDataClassV", "CodingKey"]
+- ["3MVC21ProductModelDataClassV", "CodingKeys"]
+- ["3MVC21ProductModelDataClassV", "Int"]
+- ["3MVC21ProductModelDataClassV", "ProductModelDatum"]
+- ["3MVC21ProductModelDataClassV", "String"]
+- !private ["3MVC21ProductModelDataClassV", "_findStringSwitchCase"]
+- ["3MVC21ProductModelDataClassV", "currentPage"]
+- ["3MVC21ProductModelDataClassV", "data"]
+- ["3MVC21ProductModelDataClassV", "deinit"]
+- ["3MVC21ProductModelDataClassV", "encode"]
+- ["3MVC21ProductModelDataClassV", "firstPageURL"]
+- ["3MVC21ProductModelDataClassV", "from"]
+- ["3MVC21ProductModelDataClassV", "init"]
+- ["3MVC21ProductModelDataClassV", "lastPage"]
+- ["3MVC21ProductModelDataClassV", "lastPageURL"]
+- ["3MVC21ProductModelDataClassV", "nextPageURL"]
+- ["3MVC21ProductModelDataClassV", "path"]
+- ["3MVC21ProductModelDataClassV", "perPage"]
+- ["3MVC21ProductModelDataClassV", "prevPageURL"]
+- ["3MVC21ProductModelDataClassV", "to"]
+- ["3MVC21ProductModelDataClassV", "total"]
+- ["3MVC17ProductModelDatumV", "Bool"]
+- ["3MVC17ProductModelDatumV", "CodingKey"]
+- ["3MVC17ProductModelDatumV", "CodingKeys"]
+- ["3MVC17ProductModelDatumV", "Double"]
+- ["3MVC17ProductModelDatumV", "Int"]
+- ["3MVC17ProductModelDatumV", "String"]
+- !private ["3MVC17ProductModelDatumV", "_findStringSwitchCase"]
+- ["3MVC17ProductModelDatumV", "datumDescription"]
+- ["3MVC17ProductModelDatumV", "deinit"]
+- ["3MVC17ProductModelDatumV", "discount"]
+- ["3MVC17ProductModelDatumV", "encode"]
+- ["3MVC17ProductModelDatumV", "id"]
+- ["3MVC17ProductModelDatumV", "image"]
+- ["3MVC17ProductModelDatumV", "images"]
+- ["3MVC17ProductModelDatumV", "inCart"]
+- ["3MVC17ProductModelDatumV", "inFavorites"]
+- ["3MVC17ProductModelDatumV", "init"]
+- ["3MVC17ProductModelDatumV", "name"]
+- ["3MVC17ProductModelDatumV", "oldPrice"]
+- ["3MVC17ProductModelDatumV", "price"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_rawHashValue"]
+- ["SY", "debugDescription"]
+- ["SY", "description"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "intValue"]
+- ["SY", "rawValue"]
+- ["SY", "stringValue"]
+depends-nominal:
+- "s9CodingKeyP"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- !private "3MVC17ProductModelDatumV10CodingKeysO"
+- !private "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "3MVC17ProductModelDatumV10CodingKeysO"
+- "3MVC21ProductModelDataClassV10CodingKeysO"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "s7DecoderP"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- "SH"
+- !private "s6HasherV"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- "3MVC12ProductModelV"
+- "3MVC21ProductModelDataClassV"
+- "3MVC17ProductModelDatumV"
+- "SY"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules/PKHUD.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/NVActivityIndicatorView.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-umbrella.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-umbrella.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Headers/PKHUD-Swift.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-Swift.h"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/PKHUD/PKHUD.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/MVC/DerivedData/MVC/Build/Products/Debug-iphonesimulator/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules/module.modulemap"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/hanykaram/Desktop/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "362ff86383c6d4801748acbfe248cbae"

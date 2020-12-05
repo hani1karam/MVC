@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "57795ad75ff7b9bba0033a0f1472881c"
+build_time: [1607099871, 395117000]
+inputs:
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/FrameView.swift": [1607096788, 733971737]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/HUD.swift": [1607096788, 740262051]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/PKHUD.swift": [1607096788, 734898445]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/PKHUDAnimating.swift": [1607096788, 733598898]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/PKHUDAnimation.swift": [1607096788, 733051204]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/PKHUDAssets.swift": [1607096788, 737036534]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/PKHUDErrorView.swift": [1607096788, 755135119]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/PKHUDProgressView.swift": [1607096788, 743465820]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/PKHUDRotatingImageView.swift": [1607096788, 741242140]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/PKHUDSquareBaseView.swift": [1607096788, 754539108]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/PKHUDSuccessView.swift": [1607096788, 736423687]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/PKHUDSystemActivityIndicatorView.swift": [1607096788, 732524897]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/PKHUDTextView.swift": [1607096788, 739670044]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/PKHUDWideBaseView.swift": [1607096788, 739006445]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/Window.swift": [1607096788, 741922269]
+  "/Users/hanykaram/Desktop/MVC/Pods/PKHUD/PKHUD/WindowRootViewController.swift": [1607096788, 742642543]

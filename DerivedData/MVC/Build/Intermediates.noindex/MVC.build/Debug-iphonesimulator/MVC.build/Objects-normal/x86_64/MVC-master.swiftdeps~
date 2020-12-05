@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "751ef5d5fe723a87cd7386c96a51f3c4"
+build_time: [1607103713, 43160000]
+inputs:
+  "/Users/hanykaram/Desktop/MVC/MVC/Cutome + Extenstion/ActivityIndector.swift": [1607096792, 374647768]
+  "/Users/hanykaram/Desktop/MVC/MVC/MVC/Controller/LoginVC.swift": [1607101756, 263758050]
+  "/Users/hanykaram/Desktop/MVC/MVC/LoginModel.swift": [1607095222, 800257657]
+  "/Users/hanykaram/Desktop/MVC/MVC/Delegate/AppDelegate.swift": [1607092542, 221835641]
+  "/Users/hanykaram/Desktop/MVC/MVC/Storyboard.swift": [1607101756, 175023431]
+  "/Users/hanykaram/Desktop/MVC/MVC/Cutome + Extenstion/CustomeButton.swift": [1607094954, 235187648]
+  "/Users/hanykaram/Desktop/MVC/MVC/NetWork/NetworkManager.swift": [1607096125, 490021062]
+  "/Users/hanykaram/Desktop/MVC/MVC/MVC/View/CustomeTableView/TableViewCell.swift": [1607100750, 607774185]
+  "/Users/hanykaram/Desktop/MVC/MVC/Cutome + Extenstion/Custome.swift": [1607100683, 844487529]
+  "/Users/hanykaram/Desktop/MVC/MVC/ProductModel.swift": [1607099928, 217958945]
+  "/Users/hanykaram/Desktop/MVC/MVC/MVC/Controller/HomeVC.swift": [1607102342, 156011539]
+  "/Users/hanykaram/Desktop/MVC/MVC/Delegate/SceneDelegate.swift": [1607092542, 243161445]
+  "/Users/hanykaram/Desktop/MVC/MVC/MVC/Controller/Extenstion Home.swift": [1607102342, 99210425]
+  "/Users/hanykaram/Desktop/MVC/MVC/NetWork/BaseURL.swift": [1607098755, 635516116]
