@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Alamofire</string>
+	<string>CoreServices</string>
+	<string>QuartzCore</string>
+	<string>Dispatch</string>
+	<string>CoreImage</string>
+	<string>CoreGraphics</string>
+	<string>PKHUD</string>
+	<string>WatchKit</string>
+	<string>NVActivityIndicatorView</string>
+	<string>CoreData</string>
+	<string>MobileCoreServices</string>
+	<string>AppKit</string>
+	<string>UIKit</string>
+	<string>Accelerate</string>
+	<string>Foundation</string>
+	<string>Kingfisher</string>
+	<string>SystemConfiguration</string>
+	<string>ImageIO</string>
+</array>
+</plist>
