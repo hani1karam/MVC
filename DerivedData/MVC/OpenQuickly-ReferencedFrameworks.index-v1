@@ -4,8 +4,8 @@
 <array>
 	<string>Alamofire</string>
 	<string>CoreServices</string>
-	<string>QuartzCore</string>
 	<string>Dispatch</string>
+	<string>QuartzCore</string>
 	<string>CoreImage</string>
 	<string>CoreGraphics</string>
 	<string>PKHUD</string>
@@ -15,8 +15,8 @@
 	<string>MobileCoreServices</string>
 	<string>AppKit</string>
 	<string>UIKit</string>
-	<string>Accelerate</string>
 	<string>Foundation</string>
+	<string>Accelerate</string>
 	<string>Kingfisher</string>
 	<string>SystemConfiguration</string>
 	<string>ImageIO</string>

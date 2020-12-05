@@ -6,147 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>1A48C394-59C3-432D-B251-820DA19AFB54</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogMajorGroupSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
-			<key>fileName</key>
-			<string>1A48C394-59C3-432D-B251-820DA19AFB54.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>NVActivityIndicatorView-duyedvimlvrooyfvucetccevkizj</string>
-			<key>timeStartedRecording</key>
-			<real>628794979.73228097</real>
-			<key>timeStoppedRecording</key>
-			<real>628794986.12344503</real>
-			<key>title</key>
-			<string>Build target NVActivityIndicatorView</string>
-			<key>uniqueIdentifier</key>
-			<string>1A48C394-59C3-432D-B251-820DA19AFB54</string>
-		</dict>
-		<key>68E53646-F0BB-4C52-B245-AB5C1251658C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogMajorGroupSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
-			<key>fileName</key>
-			<string>68E53646-F0BB-4C52-B245-AB5C1251658C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>Alamofire-duyedvimlvrooyfvucetccevkizj</string>
-			<key>timeStartedRecording</key>
-			<real>628794979.92382503</real>
-			<key>timeStoppedRecording</key>
-			<real>628794986.12444901</real>
-			<key>title</key>
-			<string>Build target Alamofire</string>
-			<key>uniqueIdentifier</key>
-			<string>68E53646-F0BB-4C52-B245-AB5C1251658C</string>
-		</dict>
-		<key>AD9298CB-DD5C-45E9-8090-1C94CD49E851</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogMajorGroupSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
-			<key>fileName</key>
-			<string>AD9298CB-DD5C-45E9-8090-1C94CD49E851.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>Kingfisher-duyedvimlvrooyfvucetccevkizj</string>
-			<key>timeStartedRecording</key>
-			<real>628794979.83577204</real>
-			<key>timeStoppedRecording</key>
-			<real>628794986.125507</real>
-			<key>title</key>
-			<string>Build target Kingfisher</string>
-			<key>uniqueIdentifier</key>
-			<string>AD9298CB-DD5C-45E9-8090-1C94CD49E851</string>
-		</dict>
-		<key>BDC87347-BD77-42B2-BC35-5CF238AB47CB</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogMajorGroupSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
-			<key>fileName</key>
-			<string>BDC87347-BD77-42B2-BC35-5CF238AB47CB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>PKHUD-duyedvimlvrooyfvucetccevkizj</string>
-			<key>timeStartedRecording</key>
-			<real>628794986.06233394</real>
-			<key>timeStoppedRecording</key>
-			<real>628794986.12305903</real>
-			<key>title</key>
-			<string>Build target PKHUD</string>
-			<key>uniqueIdentifier</key>
-			<string>BDC87347-BD77-42B2-BC35-5CF238AB47CB</string>
-		</dict>
-		<key>CD36EEA4-F681-4F7A-B4DC-745E7F499A42</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogMajorGroupSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
-			<key>fileName</key>
-			<string>CD36EEA4-F681-4F7A-B4DC-745E7F499A42.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>Pods-MVC-duyedvimlvrooyfvucetccevkizj</string>
-			<key>timeStartedRecording</key>
-			<real>628794986.12785101</real>
-			<key>timeStoppedRecording</key>
-			<real>628794986.15731299</real>
-			<key>title</key>
-			<string>Build target Pods-MVC</string>
-			<key>uniqueIdentifier</key>
-			<string>CD36EEA4-F681-4F7A-B4DC-745E7F499A42</string>
-		</dict>
-		<key>EFB78426-6F2A-44C2-BB25-D11FED65CEF3</key>
+		<key>0C597F84-6C29-48BF-B816-58879C0DA03E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -155,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.bundle</string>
 			<key>fileName</key>
-			<string>EFB78426-6F2A-44C2-BB25-D11FED65CEF3.xcactivitylog</string>
+			<string>0C597F84-6C29-48BF-B816-58879C0DA03E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -166,15 +26,99 @@
 			<key>signature</key>
 			<string>PKHUD-PKHUDResources-duyedvimlvrooyfvucetccevkizj</string>
 			<key>timeStartedRecording</key>
-			<real>628794980.03721094</real>
+			<real>628824018.54044294</real>
 			<key>timeStoppedRecording</key>
-			<real>628794986.05724895</real>
+			<real>628824021.56595695</real>
 			<key>title</key>
 			<string>Build target PKHUD-PKHUDResources</string>
 			<key>uniqueIdentifier</key>
-			<string>EFB78426-6F2A-44C2-BB25-D11FED65CEF3</string>
+			<string>0C597F84-6C29-48BF-B816-58879C0DA03E</string>
 		</dict>
-		<key>FCFDADF0-E9ED-48DC-9EBD-DF1BA683D722</key>
+		<key>546A13BF-EE0A-42C6-A14C-18C80499A808</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>546A13BF-EE0A-42C6-A14C-18C80499A808.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Pods-MVC-duyedvimlvrooyfvucetccevkizj</string>
+			<key>timeStartedRecording</key>
+			<real>628824021.64139497</real>
+			<key>timeStoppedRecording</key>
+			<real>628824021.67384803</real>
+			<key>title</key>
+			<string>Build target Pods-MVC</string>
+			<key>uniqueIdentifier</key>
+			<string>546A13BF-EE0A-42C6-A14C-18C80499A808</string>
+		</dict>
+		<key>561EE3EC-380C-43F7-ACF6-95CEF9BE400B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>561EE3EC-380C-43F7-ACF6-95CEF9BE400B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Kingfisher-duyedvimlvrooyfvucetccevkizj</string>
+			<key>timeStartedRecording</key>
+			<real>628824018.37166595</real>
+			<key>timeStoppedRecording</key>
+			<real>628824018.54029202</real>
+			<key>title</key>
+			<string>Build target Kingfisher</string>
+			<key>uniqueIdentifier</key>
+			<string>561EE3EC-380C-43F7-ACF6-95CEF9BE400B</string>
+		</dict>
+		<key>8A441244-57AF-4F0D-9049-05E3EB2CFA8E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>8A441244-57AF-4F0D-9049-05E3EB2CFA8E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>PKHUD-duyedvimlvrooyfvucetccevkizj</string>
+			<key>timeStartedRecording</key>
+			<real>628824021.56723201</real>
+			<key>timeStoppedRecording</key>
+			<real>628824021.63977206</real>
+			<key>title</key>
+			<string>Build target PKHUD</string>
+			<key>uniqueIdentifier</key>
+			<string>8A441244-57AF-4F0D-9049-05E3EB2CFA8E</string>
+		</dict>
+		<key>A61B89CD-F11B-4A74-9A37-01EEE53FBCCA</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -183,7 +127,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>FCFDADF0-E9ED-48DC-9EBD-DF1BA683D722.xcactivitylog</string>
+			<string>A61B89CD-F11B-4A74-9A37-01EEE53FBCCA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -194,13 +138,69 @@
 			<key>signature</key>
 			<string>MVC-drjispifvclekaduiqtbpudtcehn</string>
 			<key>timeStartedRecording</key>
-			<real>628800916.32804</real>
+			<real>628824021.67606795</real>
 			<key>timeStoppedRecording</key>
-			<real>628800919.92969298</real>
+			<real>628824023.63045096</real>
 			<key>title</key>
 			<string>Build target MVC</string>
 			<key>uniqueIdentifier</key>
-			<string>FCFDADF0-E9ED-48DC-9EBD-DF1BA683D722</string>
+			<string>A61B89CD-F11B-4A74-9A37-01EEE53FBCCA</string>
+		</dict>
+		<key>B217E461-1828-4987-89E5-62E10C3DD8A6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>B217E461-1828-4987-89E5-62E10C3DD8A6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Alamofire-duyedvimlvrooyfvucetccevkizj</string>
+			<key>timeStartedRecording</key>
+			<real>628824018.23911703</real>
+			<key>timeStoppedRecording</key>
+			<real>628824018.540241</real>
+			<key>title</key>
+			<string>Build target Alamofire</string>
+			<key>uniqueIdentifier</key>
+			<string>B217E461-1828-4987-89E5-62E10C3DD8A6</string>
+		</dict>
+		<key>F15E05AD-61B8-4460-AF92-9D09B0A9A667</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>F15E05AD-61B8-4460-AF92-9D09B0A9A667.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>NVActivityIndicatorView-duyedvimlvrooyfvucetccevkizj</string>
+			<key>timeStartedRecording</key>
+			<real>628824018.44390094</real>
+			<key>timeStoppedRecording</key>
+			<real>628824018.54018497</real>
+			<key>title</key>
+			<string>Build target NVActivityIndicatorView</string>
+			<key>uniqueIdentifier</key>
+			<string>F15E05AD-61B8-4460-AF92-9D09B0A9A667</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

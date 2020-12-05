@@ -110,8 +110,8 @@
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="4t4-Da-iQe" firstAttribute="leading" secondItem="EYU-7L-yJA" secondAttribute="leading" id="0kf-Uf-6NU"/>
-                            <constraint firstItem="4t4-Da-iQe" firstAttribute="trailing" secondItem="EYU-7L-yJA" secondAttribute="trailing" id="Gja-vU-DkJ"/>
+                            <constraint firstItem="4t4-Da-iQe" firstAttribute="leading" secondItem="QZC-Bi-47i" secondAttribute="leading" id="0kf-Uf-6NU"/>
+                            <constraint firstItem="4t4-Da-iQe" firstAttribute="trailing" secondItem="QZC-Bi-47i" secondAttribute="trailing" id="Gja-vU-DkJ"/>
                             <constraint firstItem="4t4-Da-iQe" firstAttribute="top" secondItem="QZC-Bi-47i" secondAttribute="top" id="HPk-fi-p3Y"/>
                             <constraint firstAttribute="bottom" secondItem="4t4-Da-iQe" secondAttribute="bottom" id="hqY-u2-IVE"/>
                         </constraints>

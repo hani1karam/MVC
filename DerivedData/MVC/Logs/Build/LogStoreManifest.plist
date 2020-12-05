@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>E2A76508-612E-4EDF-A48B-7C09CC48B014</key>
+		<key>3F270534-73BE-4ED0-BEE4-3E81948A804D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E2A76508-612E-4EDF-A48B-7C09CC48B014.xcactivitylog</string>
+			<string>3F270534-73BE-4ED0-BEE4-3E81948A804D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,47 @@
 			<key>signature</key>
 			<string>Build MVC</string>
 			<key>timeStartedRecording</key>
-			<real>628800916.06531203</real>
+			<real>628825535.500808</real>
 			<key>timeStoppedRecording</key>
-			<real>628800919.96355104</real>
+			<real>628825535.57978797</real>
 			<key>title</key>
 			<string>Build MVC</string>
 			<key>uniqueIdentifier</key>
-			<string>E2A76508-612E-4EDF-A48B-7C09CC48B014</string>
+			<string>3F270534-73BE-4ED0-BEE4-3E81948A804D</string>
+		</dict>
+		<key>959306E0-89DB-402C-8888-32E9A698D98C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>959306E0-89DB-402C-8888-32E9A698D98C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVC</string>
+			<key>timeStartedRecording</key>
+			<real>628824015.54799294</real>
+			<key>timeStoppedRecording</key>
+			<real>628824023.66246295</real>
+			<key>title</key>
+			<string>Build MVC</string>
+			<key>uniqueIdentifier</key>
+			<string>959306E0-89DB-402C-8888-32E9A698D98C</string>
 		</dict>
 	</dict>
 </dict>
